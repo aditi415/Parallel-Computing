@@ -6,7 +6,7 @@ using namespace std;
 // Function f(x) = x^2 * e^(-x)
 double f(double x) {
     return x * x * exp(-x);
-}
+}  
 
 int main(int argc, char *argv[]) {
     MPI_Init(&argc, &argv);
