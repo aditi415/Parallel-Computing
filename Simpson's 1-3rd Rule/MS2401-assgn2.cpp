@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <mpi.h>
+
 using namespace std;
 
 // Function f(x) = x^2 * e^(-x)
