@@ -1,5 +1,4 @@
 #include<iostream>
-
 #include<mpi.h>
 #include<vector>
 #include<fstream>
